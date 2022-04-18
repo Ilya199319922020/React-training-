@@ -1,0 +1,19 @@
+.formLogin{
+	display: flex;
+	justify-content: center;
+	flex-direction:column;
+}
+.formConrol{
+	margin-bottom: 20px;
+}
+
+.error{
+	color: brown;
+}
+.captchaImage{
+	max-width: 120px;
+	padding: 10px;
+}
+.captchaInput{
+	padding: 0 10px 10px 10px;
+}

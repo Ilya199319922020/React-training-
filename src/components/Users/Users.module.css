@@ -1,0 +1,26 @@
+.user{
+display: grid;
+grid-template-columns: 1fr 3fr;
+}
+.selectedPage{
+	font-weight: 800;
+}
+.userButtonAvatar {
+	padding: 10px;
+}
+.userAvatar{
+	width: 50px;
+	height: 50px;
+}
+.userInfo{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	justify-content: space-between;
+	}
+.userNameStatus{
+	display: grid;
+}
+.userLocation{
+	display: grid;
+}

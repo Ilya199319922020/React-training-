@@ -1,0 +1,10 @@
+.header{
+	grid-area: h;
+	background-color: rgb(45, 119, 63);
+ }
+ .header img{
+	width: 40px;
+}
+.headerLoginItem a{
+	
+}
